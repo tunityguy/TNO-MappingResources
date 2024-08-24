@@ -14,7 +14,7 @@ I reccomend using VSCode for this - https://code.visualstudio.com/docs/?dv=win64
 
 New ultimate guide on TunityGuy's channel: https://www.youtube.com/channel/UCjr3tWIQUJKxqvFb5ZC88GQ
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The highlighted_countries, puppet_states and alliance_to_show can be hashed out to not use their functionalities.
 
@@ -32,6 +32,7 @@ create_map(
 )
 ```
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Credits:
 
 Map - Epentibi, TunityGuy
