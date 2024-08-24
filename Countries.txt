@@ -1,0 +1,182 @@
+Country Names and ReferenceIDs:
+
+37th Army - 1
+AFRSR - 2
+Afghanistan - 3
+Algeria - 4
+Amur - 5
+Argentina - 6
+Armenia - 7
+Australia - 8
+Azad Hind - 9
+Azawad - 10
+Air - 11
+Bashkortostan - 12
+Belize - 13
+Bhutan - 14
+Black Army - 15
+Bolivia - 16
+Brazil - 17
+Bulgaria - 18
+Burgundy - 19
+Burma - 20
+Buryatia - 21
+Cambodia - 22
+Cameroon - 23
+Canada - 24
+Central Africa - 25
+Ceylon - 26
+Chile - 27
+China - 28
+Chita - 29
+Colombia - 30
+Costa Rica - 31
+Croatia - 32
+Cuba - 33
+Denmark - 34
+Dirlewanger Brigade - 35
+Dominican Republic - 36
+East Africa - 37
+Ecuador - 38
+Egypt - 39
+El Salvador - 40 
+Faroes - 41
+Finland - 42
+France - 43
+Free Aviators - 44
+Free France - 45
+Free Philippine Republic - 46
+Gbeland - 47
+Germany - 48
+Ghana - 49
+Gorky - 50
+Greece - 51
+Guangdong - 52
+Guangxi - 53
+Guatemala - 54
+Guinea - 55
+Guizhou - 56
+Guyana - 57
+Haiti - 58
+Honduras - 59
+Hungary - 60
+Iberia - 61
+Iberian Algeria - 62
+Iceland - 63
+India - 64
+Indonesia - 65
+Iran - 66
+Iraq - 67
+Ireland - 68
+Irkutsk - 69
+Italian East Africa - 70
+Italian Gulf - 71
+Italy - 72
+Japan - 73
+Jinsui - 74
+Jola - 75
+Kanem - 76
+Karapakastan - 77
+Kaukasien - 78
+Kazakhstan - 79
+Kazan - 80
+Kemerovo - 81
+Komi - 82
+Krasnoyarsk - 83
+Kyrgyzstan - 88
+Laos - 84
+Levant - 85
+Liberia - 86
+Madagascar - 87
+Magadan - 89
+Magnetogorsk - 90
+Malay - 91
+Malian State - 92
+Manchuria - 93
+Mendi - 94
+Mexico - 95
+Mongolia - 96
+Montenegro -97 
+Moskowien - 98
+Mossiland - 99
+Mosul - 100
+NRA24 - 101
+NRA40 - 102
+Nepal - 103
+Netherlands - 104
+New Granada - 105
+New Zealand - 106
+Nicaragua - 107
+Norway - 108
+Novosibirsk - 109
+Oman - 110
+Omsk - 111
+Onega - 112
+Orenburg - 113
+Ostland - 114
+Oyrotia - 115
+Pakistan - 116
+Panama - 117
+Paraguay - 118
+Perm - 119
+Peru - 120
+Poland - 121
+Rev. Colombia - 123
+Romania - 124
+Russian Anarchy - 125
+Saint George - 126
+Samara - 127
+Santa Cruz - 128
+Saudi Arabia - 129
+Second Philippine Republic - 130
+Seihoku - 131
+Serbia - 132
+Sikkim - 133
+Slovakia - 134
+Sokoto - 135
+South Africa - 136
+Southwest Africa - 137
+Soviet Pacific Fleet - 138
+Suriname - 139
+Sverdlovsk - 140
+Sweden - 141
+Switzerland - 142
+Syria - 143
+Tajikistan - 144
+Tannu Tuva - 145
+Thailand - 146
+Thief Territory - 147
+Tibet - 148
+Tomsk - 149
+Transnistria - 150
+Trarza - 151
+Turkestan Legion - 152
+Turkey - 153
+Turkmenistan - 154
+Tyumen - 155
+UMAJF - 156
+Ukraine - 157
+United Kingdom - 158
+United States of America - 159
+Ural League - 160
+Uruguay - 161
+Uzbekistan - 162
+Venezuela - 163
+Vietnam - 164
+Vologda - 165
+Vorkuta - 166
+Vyatka - 167
+WRRF - 168
+West Indies - 169
+Wolofia - 170
+Xinjiang - 171
+Yakutia - 172
+Yemen - 173
+Yorubaland - 174
+Yunnan - 175
+Zlatoust - 176
+German Antarctica - 177
+OFN Antarctica - 178
+Japanese Antarctica - 179
+Chilean Antarctica - 180
+Argentine Antarctica - 181

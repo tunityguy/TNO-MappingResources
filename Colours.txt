@@ -1,0 +1,12 @@
+Color Codes:
+Land: 0d2024
+Ocean: 061115
+Borders/Edge: 50b4b0
+Highlighted country: 6bf2b3
+Puppet/Overlord: 91ccb1
+Graticules: 62b2c0
+-------------------------
+OFN: 0d1c3e
+Einheitspakt: 465d63
+Sphere: 3f1e1d
+Triumvate: 4c6342 
