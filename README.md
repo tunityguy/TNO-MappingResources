@@ -26,13 +26,13 @@ The highlighted_countries, puppet_states and alliance_to_show can be hashed out 
 
 Example:
 
-`create_map(
+```create_map(
     52, 19,
     highlighted_countries=['Poland'],
     puppet_states=['Germany', 'Ukraine'], 
     alliance_to_show='Einheitspakt',
     output_svg='Polsha.svg'
-)`
+)```
 
 Countries and territories located near the edge of the image may have issues regarding their infill, solution is to edit them in Inkspace by moving path endpoints far out of the globe.
 
