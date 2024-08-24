@@ -1,5 +1,12 @@
-Requirements for editing maps:
+Credits:
 
+Map - Epentibi, TunityGuy
+
+Python Script - Jankowek
+
+Graticules by Natural Earth Data
+
+Required software for editing maps:
 
 Python - https://www.python.org/ftp/python/3.12.5/python-3.12.5-amd64.exe
 
@@ -23,6 +30,7 @@ New ultimate guide on TunityGuy's channel: https://www.youtube.com/channel/UCjr3
 
 The highlighted_countries, puppet_states and alliance_to_show can be hashed out to not use their functionalities.
 
+Countries and territories located near the edge of the image may have issues regarding their infill, solution is to edit them in Inkspace by moving path endpoints far out of the globe.
 
 Example:
 
@@ -34,13 +42,4 @@ Example:
     output_svg='Polsha.svg'
 )```
 
-Countries and territories located near the edge of the image may have issues regarding their infill, solution is to edit them in Inkspace by moving path endpoints far out of the globe.
 
-
-Credits:
-
-Map - Epentibi, TunityGuy
-
-Python Script - Jankowek
-
-Graticules by Natural Earth Data
